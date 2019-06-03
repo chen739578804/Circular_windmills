@@ -116,6 +116,7 @@ PostQuitMessage(0);
 break;
 default:
 return DefWindowProc(hwnd,uMsg,wParam,lParam);
+//dhjashd kjashjkahdjkshdjsadhkjahdjhdak
 }
 return 0;
 }
